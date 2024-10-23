@@ -1,0 +1,70 @@
+C:\Users\tiagon\Downloads\ScreenSound03-aula-1\ScreenSound03-aula-1\ScreenSound\bin\Debug\net6.0\ScreenSound.exe
+C:\Users\tiagon\Downloads\ScreenSound03-aula-1\ScreenSound03-aula-1\ScreenSound\bin\Debug\net6.0\ScreenSound.deps.json
+C:\Users\tiagon\Downloads\ScreenSound03-aula-1\ScreenSound03-aula-1\ScreenSound\bin\Debug\net6.0\ScreenSound.runtimeconfig.json
+C:\Users\tiagon\Downloads\ScreenSound03-aula-1\ScreenSound03-aula-1\ScreenSound\bin\Debug\net6.0\ScreenSound.dll
+C:\Users\tiagon\Downloads\ScreenSound03-aula-1\ScreenSound03-aula-1\ScreenSound\bin\Debug\net6.0\ScreenSound.pdb
+C:\Users\tiagon\Downloads\ScreenSound03-aula-1\ScreenSound03-aula-1\ScreenSound\obj\Debug\net6.0\ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiagon\Downloads\ScreenSound03-aula-1\ScreenSound03-aula-1\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfoInputs.cache
+C:\Users\tiagon\Downloads\ScreenSound03-aula-1\ScreenSound03-aula-1\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfo.cs
+C:\Users\tiagon\Downloads\ScreenSound03-aula-1\ScreenSound03-aula-1\ScreenSound\obj\Debug\net6.0\ScreenSound.csproj.CoreCompileInputs.cache
+C:\Users\tiagon\Downloads\ScreenSound03-aula-1\ScreenSound03-aula-1\ScreenSound\obj\Debug\net6.0\ScreenSound.dll
+C:\Users\tiagon\Downloads\ScreenSound03-aula-1\ScreenSound03-aula-1\ScreenSound\obj\Debug\net6.0\refint\ScreenSound.dll
+C:\Users\tiagon\Downloads\ScreenSound03-aula-1\ScreenSound03-aula-1\ScreenSound\obj\Debug\net6.0\ScreenSound.pdb
+C:\Users\tiagon\Downloads\ScreenSound03-aula-1\ScreenSound03-aula-1\ScreenSound\obj\Debug\net6.0\ScreenSound.genruntimeconfig.cache
+C:\Users\tiagon\Downloads\ScreenSound03-aula-1\ScreenSound03-aula-1\ScreenSound\obj\Debug\net6.0\ref\ScreenSound.dll
+C:\Users\tiagon\Desktop\ScreenSound03-aula-1\ScreenSound\bin\Debug\net6.0\ScreenSound.exe
+C:\Users\tiagon\Desktop\ScreenSound03-aula-1\ScreenSound\bin\Debug\net6.0\ScreenSound.deps.json
+C:\Users\tiagon\Desktop\ScreenSound03-aula-1\ScreenSound\bin\Debug\net6.0\ScreenSound.runtimeconfig.json
+C:\Users\tiagon\Desktop\ScreenSound03-aula-1\ScreenSound\bin\Debug\net6.0\ScreenSound.dll
+C:\Users\tiagon\Desktop\ScreenSound03-aula-1\ScreenSound\bin\Debug\net6.0\ScreenSound.pdb
+C:\Users\tiagon\Desktop\ScreenSound03-aula-1\ScreenSound\obj\Debug\net6.0\ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiagon\Desktop\ScreenSound03-aula-1\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfoInputs.cache
+C:\Users\tiagon\Desktop\ScreenSound03-aula-1\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfo.cs
+C:\Users\tiagon\Desktop\ScreenSound03-aula-1\ScreenSound\obj\Debug\net6.0\ScreenSound.csproj.CoreCompileInputs.cache
+C:\Users\tiagon\Desktop\ScreenSound03-aula-1\ScreenSound\obj\Debug\net6.0\ScreenSound.dll
+C:\Users\tiagon\Desktop\ScreenSound03-aula-1\ScreenSound\obj\Debug\net6.0\refint\ScreenSound.dll
+C:\Users\tiagon\Desktop\ScreenSound03-aula-1\ScreenSound\obj\Debug\net6.0\ScreenSound.pdb
+C:\Users\tiagon\Desktop\ScreenSound03-aula-1\ScreenSound\obj\Debug\net6.0\ScreenSound.genruntimeconfig.cache
+C:\Users\tiagon\Desktop\ScreenSound03-aula-1\ScreenSound\obj\Debug\net6.0\ref\ScreenSound.dll
+C:\Users\tiagon\Desktop\ScreenSound03-aula-1\ScreenSound\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tiagon\Desktop\ScreenSound03-aula-1\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\tiagon\Desktop\ScreenSound03-aula-1\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tiagon\Desktop\ScreenSound03-aula-1\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\tiagon\Desktop\ScreenSound03-aula-1\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tiagon\Desktop\ScreenSound03-aula-1\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+C:\Users\tiagon\Desktop\ScreenSound03-aula-1\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\tiagon\Desktop\ScreenSound03-aula-1\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tiagon\Desktop\ScreenSound03-aula-1\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\tiagon\Desktop\ScreenSound03-aula-1\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\tiagon\Desktop\ScreenSound03-aula-1\ScreenSound\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\tiagon\Desktop\ScreenSound03-aula-1\ScreenSound\bin\Debug\net6.0\OpenAI_API.dll
+C:\Users\tiagon\Desktop\ScreenSound03-aula-1\ScreenSound\obj\Debug\net6.0\ScreenSound.csproj.AssemblyReference.cache
+C:\Users\tiagon\Desktop\ScreenSound03-aula-1\ScreenSound\obj\Debug\net6.0\ScreenSo.4E60E543.Up2Date
+C:\Users\tiagon\Documents\#C\Curso 2 - Orientações e Objetos\ScreenSound03-aula-1\ScreenSound\bin\Debug\net6.0\ScreenSound.exe
+C:\Users\tiagon\Documents\#C\Curso 2 - Orientações e Objetos\ScreenSound03-aula-1\ScreenSound\bin\Debug\net6.0\ScreenSound.deps.json
+C:\Users\tiagon\Documents\#C\Curso 2 - Orientações e Objetos\ScreenSound03-aula-1\ScreenSound\bin\Debug\net6.0\ScreenSound.runtimeconfig.json
+C:\Users\tiagon\Documents\#C\Curso 2 - Orientações e Objetos\ScreenSound03-aula-1\ScreenSound\bin\Debug\net6.0\ScreenSound.dll
+C:\Users\tiagon\Documents\#C\Curso 2 - Orientações e Objetos\ScreenSound03-aula-1\ScreenSound\bin\Debug\net6.0\ScreenSound.pdb
+C:\Users\tiagon\Documents\#C\Curso 2 - Orientações e Objetos\ScreenSound03-aula-1\ScreenSound\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tiagon\Documents\#C\Curso 2 - Orientações e Objetos\ScreenSound03-aula-1\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\tiagon\Documents\#C\Curso 2 - Orientações e Objetos\ScreenSound03-aula-1\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tiagon\Documents\#C\Curso 2 - Orientações e Objetos\ScreenSound03-aula-1\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\tiagon\Documents\#C\Curso 2 - Orientações e Objetos\ScreenSound03-aula-1\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tiagon\Documents\#C\Curso 2 - Orientações e Objetos\ScreenSound03-aula-1\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+C:\Users\tiagon\Documents\#C\Curso 2 - Orientações e Objetos\ScreenSound03-aula-1\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\tiagon\Documents\#C\Curso 2 - Orientações e Objetos\ScreenSound03-aula-1\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tiagon\Documents\#C\Curso 2 - Orientações e Objetos\ScreenSound03-aula-1\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\tiagon\Documents\#C\Curso 2 - Orientações e Objetos\ScreenSound03-aula-1\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\tiagon\Documents\#C\Curso 2 - Orientações e Objetos\ScreenSound03-aula-1\ScreenSound\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\tiagon\Documents\#C\Curso 2 - Orientações e Objetos\ScreenSound03-aula-1\ScreenSound\bin\Debug\net6.0\OpenAI_API.dll
+C:\Users\tiagon\Documents\#C\Curso 2 - Orientações e Objetos\ScreenSound03-aula-1\ScreenSound\obj\Debug\net6.0\ScreenSound.csproj.AssemblyReference.cache
+C:\Users\tiagon\Documents\#C\Curso 2 - Orientações e Objetos\ScreenSound03-aula-1\ScreenSound\obj\Debug\net6.0\ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiagon\Documents\#C\Curso 2 - Orientações e Objetos\ScreenSound03-aula-1\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfoInputs.cache
+C:\Users\tiagon\Documents\#C\Curso 2 - Orientações e Objetos\ScreenSound03-aula-1\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfo.cs
+C:\Users\tiagon\Documents\#C\Curso 2 - Orientações e Objetos\ScreenSound03-aula-1\ScreenSound\obj\Debug\net6.0\ScreenSound.csproj.CoreCompileInputs.cache
+C:\Users\tiagon\Documents\#C\Curso 2 - Orientações e Objetos\ScreenSound03-aula-1\ScreenSound\obj\Debug\net6.0\ScreenSo.4E60E543.Up2Date
+C:\Users\tiagon\Documents\#C\Curso 2 - Orientações e Objetos\ScreenSound03-aula-1\ScreenSound\obj\Debug\net6.0\ScreenSound.dll
+C:\Users\tiagon\Documents\#C\Curso 2 - Orientações e Objetos\ScreenSound03-aula-1\ScreenSound\obj\Debug\net6.0\refint\ScreenSound.dll
+C:\Users\tiagon\Documents\#C\Curso 2 - Orientações e Objetos\ScreenSound03-aula-1\ScreenSound\obj\Debug\net6.0\ScreenSound.pdb
+C:\Users\tiagon\Documents\#C\Curso 2 - Orientações e Objetos\ScreenSound03-aula-1\ScreenSound\obj\Debug\net6.0\ScreenSound.genruntimeconfig.cache
+C:\Users\tiagon\Documents\#C\Curso 2 - Orientações e Objetos\ScreenSound03-aula-1\ScreenSound\obj\Debug\net6.0\ref\ScreenSound.dll
